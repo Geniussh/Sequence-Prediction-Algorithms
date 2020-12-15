@@ -1,4 +1,4 @@
-# Sequence-Prediction-Algorithms
+# Sequence Prediction Algorithms
 Comparison of Sequence Prediction Algorithms on a Structured Prediction Problem
 
 ## Objectives
