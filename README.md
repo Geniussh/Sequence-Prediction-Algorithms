@@ -1,5 +1,5 @@
 # Sequence Prediction Algorithms
-Comparison of Sequence Prediction Algorithms on a Structured Prediction Problem
+Comparison of Structured Prediction Algorithms on a Sequence Prediction Problem
 
 ## Objectives
 I empirically compared three sequence prediction algorithms on a structured prediction problem, [Handwritten OCR](https://ai.stanford.edu/~btaskar/ocr/). I used existing frameworks for [Structured SVM](https://jmlr.org/papers/volume6/tsochantaridis05a/tsochantaridis05a.pdf) and [Conditional Random Fields](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers), and I self-implemented the [Auto-context](http://pages.ucsd.edu/~ztu/publication/cvpr08_autocontext.pdf) algorithm.  
